@@ -1,1 +1,1 @@
-Test Git Wuick Start demo
+Test Git Quick Start demo
